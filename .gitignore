@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+LoopRace/Assets/CartoonTracksPack1/Track1/Textures/road.psd
+LoopRace/Assets/CartoonTracksPack1/Track1/Textures/road_normal.png
+LoopRace/Library/Artifacts/ba/baeda8835a6f59a649491ec2156d7919
+LoopRace/Library/Artifacts/dc/dc476f3c20bffc472fb9efe29a960cfd
