@@ -76,6 +76,9 @@ mono_crash.*
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
 # TestRunner generated files
 InitTestScene*.unity*
 
@@ -101,3 +104,8 @@ LoopRace/Assets/CartoonTracksPack1/Track1/Textures/road.psd
 LoopRace/Assets/CartoonTracksPack1/Track1/Textures/road_normal.png
 LoopRace/Library/Artifacts/ba/baeda8835a6f59a649491ec2156d7919
 LoopRace/Library/Artifacts/dc/dc476f3c20bffc472fb9efe29a960cfd
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
